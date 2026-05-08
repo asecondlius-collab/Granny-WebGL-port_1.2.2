@@ -6,4 +6,6 @@ Please do note that I am not affiliated with DVLoper, nor do I have any part in 
 
 I created this myself because I noticed many other Granny web ports at the time often contained bugs, showed great unpolish, or were infested with unrelated advertising or self-credits. Self-crediting is of course not inherently wrong, but the way they often credited themselves were through UI or design that diverted from the style of the game. This version features no advertising, micro-transactions, nor any credits to anybody including me besides to DVLoper. Most functions, including the five-day system, Granny AI, sound design, and physics should mostly be relatively similar or same to the original, without showing signs of breaking. I hope you don't experience any bugs throughout your experience, and if you do, please in-fact report them.
 
-I do not care if you choose to credit me or not, but falsely lying and putting somebody else as one who contributed to this is something I wouldn't like
+I do not care if you choose to credit me or not, but falsely lying and putting somebody else as one who contributed to this is something I wouldn't like.
+
+If you want to download this, use the RELEASES tab. Do not just download it as a zip through the code tab.
